@@ -31,7 +31,7 @@ O objetivo foi criar um **painel interativo** que permita visualizar de forma cl
 ---
 
 ## 🔗 Acesse o Dashboard Online
-👉 [Clique aqui para visualizar o painel no Power BI Service](https://app.powerbi.com/groups/be3d3f3b-bece-442f-b0ea-81dfc19c8d6f/reports/de43c8fd-008e-45ad-bd61-cbde5e87d710/aee6c1fe1eb1179b1432?experience=power-bi)  
+👉 [Clique aqui para visualizar o painel no Power BI Service]([https://app.powerbi.com/groups/be3d3f3b-bece-442f-b0ea-81dfc19c8d6f/reports/de43c8fd-008e-45ad-bd61-cbde5e87d710/aee6c1fe1eb1179b1432?experience=power-bi](https://app.powerbi.com/view?r=eyJrIjoiMTdmN2FiYzAtNDIxNi00MWI3LTgyZjAtZjhjZGJiZDJlMTliIiwidCI6IjJkZGFjMDU3LTE2NDEtNGI5Ni05MDc4LWEyZjM3NmM4NGI3NyJ9))  
 
 ---
 
