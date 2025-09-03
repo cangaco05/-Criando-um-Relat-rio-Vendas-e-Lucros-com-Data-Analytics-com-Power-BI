@@ -51,7 +51,7 @@ O objetivo foi criar um **painel interativo** que permita visualizar de forma cl
 ---
 
 ## 👨‍💻 Autor
-**Amaury**  
+**Amaury Prates**  
 Profissional de Tecnologia em transição para a área de **Dados**, apaixonado por análise e soluções inteligentes para negócios.  
 
 🔗 [LinkedIn](www.linkedin.com/in/amaury-prates/) | [Portfólio](#)  
